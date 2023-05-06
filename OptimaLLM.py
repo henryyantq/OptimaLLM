@@ -1,11 +1,11 @@
 import httpx
 
-OPENAI_API_KEY = 'sk-chatAILogcgComO9RtGgRkxbmvDGwQzkmMsxSee23yqKqdn2I'
+OPENAI_API_KEY = 'YOUR_OPENAI_API_KEY'
 MODEL = 'gpt-3.5-turbo'
 OPTIMODE = 'original'
 
 def send_req_receive(message, model=MODEL):
-    url = 'https://api.chatai.beauty/v1/chat/completions'
+    url = 'https://api.openai.com/v1/chat/completions'
     headers = {
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {OPENAI_API_KEY}'
