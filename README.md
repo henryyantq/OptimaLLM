@@ -39,7 +39,7 @@ training for language understanding](https://proceedings.neurips.cc/paper/2019/f
 Systems, 2019.
 
 [5] Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle
-Ott, Luke Zettlemoyer, and Veselin Stoyanov. [Unsupervised cross-lingual representation learning at scale. In Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/pdf/1911.02116), 2019.
+Ott, Luke Zettlemoyer, and Veselin Stoyanov. [Unsupervised cross-lingual representation learning at scale](https://arxiv.org/pdf/1911.02116). In Annual Meeting of the Association for Computational Linguistics, 2019.
 
 [6] OpenAI. [Gpt-4 technical report](https://arxiv.org/pdf/2303.08774). arXiv preprint arXiv:2303.08774,
 2023.
