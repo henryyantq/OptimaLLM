@@ -18,10 +18,10 @@ The official implementation of the paper *Refining the Responses of LLMs by Them
 **References of our work**
 
 [1] Ashish Vaswani, Noam M. Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 
-Attention is all you need. ArXiv, abs/1706.03762, 2017.
+[Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf). ArXiv, abs/1706.03762, 2017.
 
 [2] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
-Bert: Pre-training of deep bidirectional transformers for language understanding. ArXiv, abs/1810.04805, 2019.
+[Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ). ArXiv, abs/1810.04805, 2019.
 
 [3] Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah,
 Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam,
@@ -30,46 +30,45 @@ Gretchen Krueger, T. J. Henighan, Rewon Child, Aditya Ramesh,
 Daniel M. Ziegler, Jeff Wu, Clemens Winter, Christopher Hesse,
 Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess,
 Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya
-Sutskever, and Dario Amodei. Language models are few-shot learners.
+Sutskever, and Dario Amodei. [Language models are few-shot learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf).
 ArXiv, abs/2005.14165, 2020.
 
 [4] Zhilin Yang, Zihang Dai, Yiming Yang, Jaime G. Carbonell, Ruslan
-Salakhutdinov, and Quoc V. Le. Xlnet: Generalized autoregressive pre-
-training for language understanding. In Neural Information Processing
+Salakhutdinov, and Quoc V. Le. [Xlnet: Generalized autoregressive pre-
+training for language understanding](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf). In Neural Information Processing
 Systems, 2019.
 
 [5] Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle
-Ott, Luke Zettlemoyer, and Veselin Stoyanov. Unsupervised cross-lingual representation learning at scale. In Annual Meeting of the Association for Computational Linguistics, 2019.
+Ott, Luke Zettlemoyer, and Veselin Stoyanov. [Unsupervised cross-lingual representation learning at scale. In Annual Meeting of the Association for Computational Linguistics](https://arxiv.org/pdf/1911.02116), 2019.
 
-[6] OpenAI. Gpt-4 technical report. arXiv preprint arXiv:2303.08774,
+[6] OpenAI. [Gpt-4 technical report](https://arxiv.org/pdf/2303.08774). arXiv preprint arXiv:2303.08774,
 2023.
 
-[7] Alec Radford and Karthik Narasimhan. Improving language understanding by generative pre-training. 2018.
+[7] Alec Radford and Karthik Narasimhan. [Improving language understanding by generative pre-training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf). 2018.
 
 [8] Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and
-Shmargaret Shmitchell. On the dangers of stochastic parrots: Can language models be too big? Proceedings of the 2021 ACM Conference on
+Shmargaret Shmitchell. [On the dangers of stochastic parrots: Can language models be too big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922) Proceedings of the 2021 ACM Conference on
 Fairness, Accountability, and Transparency, 2021.
 
 [9] Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brock-
-ett, Xiang Gao, Jianfeng Gao, Jingjing Liu, and William B. Dolan. Dialogpt : Large-scale generative pre-training for conversational response
-generation. In Annual Meeting of the Association for Computational
+ett, Xiang Gao, Jianfeng Gao, Jingjing Liu, and William B. Dolan. [Dialogpt : Large-scale generative pre-training for conversational response
+generation](https://arxiv.org/pdf/1911.00536.pdf%7D.). In Annual Meeting of the Association for Computational
 Linguistics, 2019.
 
-[10] Alex Wang, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel R. Bowman. Super-
-glue: A stickier benchmark for general-purpose language understanding
-systems. ArXiv, abs/1905.00537, 2019.
+[10] Alex Wang, Yada Pruksachatkun, Nikita Nangia, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel R. Bowman. [Superglue: A stickier benchmark for general-purpose language understanding
+systems](https://proceedings.neurips.cc/paper/2019/file/4496bf24afe7fab6f046bf4923da8de6-Paper.pdf). ArXiv, abs/1905.00537, 2019.
 
 [11] Paul Francis Christiano, Jan Leike, Tom B. Brown, Miljan Martic,
-Shane Legg, and Dario Amodei. Deep reinforcement learning from
-human preferences. ArXiv, abs/1706.03741, 2017.
+Shane Legg, and Dario Amodei. [Deep reinforcement learning from
+human preferences](https://proceedings.neurips.cc/paper/2017/file/d5e2c0adad503c91f91df240d0cd4e49-Paper.pdf). ArXiv, abs/1706.03741, 2017.
 
 [12] Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina
 Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke E.
 Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Francis
-Christiano, Jan Leike, and Ryan J. Lowe. Training language models
-to follow instructions with human feedback. ArXiv, abs/2203.02155,
+Christiano, Jan Leike, and Ryan J. Lowe. [Training language models
+to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf). ArXiv, abs/2203.02155,
 2022.
 
 [13] Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Huai
-hsin Chi, F. Xia, Quoc Le, and Denny Zhou. Chain of thought prompting elicits reasoning in large language models. ArXiv, abs/2201.11903,
+hsin Chi, F. Xia, Quoc Le, and Denny Zhou. [Chain of thought prompting elicits reasoning in large language models](https://arxiv.org/pdf/2201.11903.pdf?trk=public_post_comment-text). ArXiv, abs/2201.11903,
 2022.
