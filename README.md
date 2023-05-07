@@ -13,6 +13,9 @@ The official implementation of the paper *Refining the Responses of LLMs by Them
   <br>
   <img src="https://user-images.githubusercontent.com/20149275/236629603-d96d4496-6130-4b0e-83c0-ac5dc3c973ad.png" alt="Image 2" width="90%" />
   <br>
+  <br>
+  <img src="https://user-images.githubusercontent.com/20149275/236655441-377b79fb-8550-4ba9-be67-c59a29f32404.png" alt="Image 3" width="90%" />
+  <br>
 </p>
 
 **References of our work**
