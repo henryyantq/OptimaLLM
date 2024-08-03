@@ -1,6 +1,6 @@
 # OptimaLLM
 
-**Attention! Please replace YOUR_OPENAI_API_KEY with your personal valid OpenAI API key.**
+**Attention! Please replace `API_KEY` with your personal valid OpenAI API key.**
 
 Requirements: `pip install -U httpx tqdm --no-cache-dir` or `pip3 install -U httpx tqdm --no-cache-dir`
 
