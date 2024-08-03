@@ -1,6 +1,7 @@
 import httpx
+from tqdm import tqdm
 
-API_KEY = 'YOUR_API_KEY'
+API_KEY = 'sk-chatAILogcgCom9hhswPg3Mucx8VLxVEDKgo1gb5y54XSPa6d'
 MODEL = 'gpt-4o'
 OPTIMODE = 'original'
 
@@ -33,7 +34,7 @@ def refiner(init_prompt, max_iters, model=MODEL, temperature=0.8):
     first_attempt = received_content['content']
     iter_count = 0
     answers = []
-    for _ in range(0, int(max_iters)):
+    for _ in tqdm(range(0, int(max_iters))):
         iter_count += 1
         former_feedback = received_content
         flaw_indicating = {'role': 'user',
@@ -79,7 +80,7 @@ def main():
         init_prompt = input('\nPlease type in your question here: ')
         max_iters = input('\nPlease type in the maximum iterations of the enhancement: ')
         first_attempt, answers, enhanced = refiner(
-            message=init_prompt,
+            init_prompt=init_prompt,
             max_iters=max_iters
         )
         trace = f'## Initial answer: \n\n{first_attempt}'
