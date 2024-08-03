@@ -1,7 +1,7 @@
 import httpx
 from tqdm import tqdm
 
-API_KEY = 'sk-chatAILogcgCom9hhswPg3Mucx8VLxVEDKgo1gb5y54XSPa6d'
+API_KEY = ''
 MODEL = 'gpt-4o'
 OPTIMODE = 'original'
 
