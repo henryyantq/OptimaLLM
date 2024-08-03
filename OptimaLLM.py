@@ -6,7 +6,7 @@ MODEL = 'gpt-4o'
 OPTIMODE = 'original'
 
 def chat(message, model=MODEL, temperature=0.8):
-    url = 'https://api.chatai.beauty/v1/chat/completions'
+    url = 'https://api.openai.com/v1/chat/completions'
     headers = {
         'Content-Type': 'application/json',
         'Authorization': f'Bearer {API_KEY}'
